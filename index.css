@@ -1,0 +1,27 @@
+.title {
+    margin: 0 auto;
+    color: magenta;
+    font-size: 25px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+
+
+.quote{
+    margin: 0 auto; 
+    color: black;
+    font-size: 20px;   
+    font-family:Helvetica;
+    text-align: center;
+}
+
